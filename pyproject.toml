@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "h5py>=3.12.1",
-    "optype>=0.15",
+    "optype>=0.9.3", # last version for 3.10
 ]
 
 [build-system]
